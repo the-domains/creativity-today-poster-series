@@ -1,0 +1,28 @@
+name: 'Creativity Today: Poster Series'
+favicon: null
+layout_spectrum: 0.997333311708644
+typography_spectrum: 0.12093787058256567
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5684268288314342
+  lightness: 0.6532686022110283
+  saturation: 0.4211506547871977
+  rhythmicContrast: 0.38040901185013354
+purpose: []
